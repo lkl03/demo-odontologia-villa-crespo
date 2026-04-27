@@ -1,2 +1,7 @@
-# demo-odontologia-villa-crespo
-Demo web para Odontologia Villa Crespo — diseñada por eterlab.
+# Odontologia Villa Crespo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
